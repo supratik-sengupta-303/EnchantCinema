@@ -57,7 +57,7 @@ Add Movie Page (for Admin):
 
 Admis's Profile Page - Movie List:
 
-![image](https://github.com/supratik-sengupta-303/EnchantCinema/assets/121259028/b5aa646e-335c-4e50-86d2-7bf5c2a178ea)
+![image](https://github.com/supratik-sengupta-303/EnchantCinema/assets/121259028/21cfc282-06f2-4a3a-8b24-066b8a9a13f0)
 
 Theatre List (of all Theatre Owners):
 
